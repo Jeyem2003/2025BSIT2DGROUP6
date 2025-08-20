@@ -1,0 +1,7 @@
+git clone
+https://github.com/Jeyem2003/2025BSIT2DGROUP6.git
+git status
+git add. 
+git commit -m "your message here"
+git pull origin main
+git push origin main
